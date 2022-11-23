@@ -1,0 +1,9 @@
+# Project exclude paths
+/dynamodb/target/
+/lambda/CustomerPortrailt/AddCredits/target/
+/lambda/demo_xray/DemoXrayFunction/target/
+/parent/target/
+/redis/target/
+/s3/target/
+/secretsManager/target/
+/.idea
